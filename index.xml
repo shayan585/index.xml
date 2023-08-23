@@ -1,0 +1,15 @@
+<?xml version="1.0" incoding="nft-8"?>
+<food xmlns:food="foods" >
+<food:food > 
+<food category="halwa puri">
+<name>halwapuri</name>
+</food>
+<food category="Roti">
+<name>roti</name>
+</food>
+<food category="sabzi">
+<name>sabzi</name>
+</food>
+<food category="fruits">
+<name>fruits</name>
+</food>
